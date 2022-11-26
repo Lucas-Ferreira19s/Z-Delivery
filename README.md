@@ -6,4 +6,4 @@
 - Mobile
 
 ##Layout
-![preview img](/assets/preview-zé.png)
+![preview img](assets/preview_zé.png)
